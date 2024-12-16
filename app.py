@@ -1,5 +1,7 @@
-import streamlit as st
+import app as st
 
+
+print("First Streamlit app")
 # Title for the app
 st.title("Sample Streamlit App")
 
